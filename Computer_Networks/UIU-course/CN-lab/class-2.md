@@ -83,7 +83,7 @@ Boradcast Address
 ```
 ## Default Gateway
 
-![alt text](image-1.png)
+![img-1-class-2](https://github.com/Ruhanyat-994/Life-of-a-Packet/assets/110297704/47edcfe6-a9c3-47a6-9bb2-395ce08b0129)
 
 ##### **Router is the default gateway between one and multiple networks**
 
@@ -91,6 +91,6 @@ Boradcast Address
 
 ##### Part-3: Create a single-segment network using a Hub
 
-![alt text](image.png)
+![img-2-class-2](https://github.com/Ruhanyat-994/Life-of-a-Packet/assets/110297704/6e9329e9-203c-4181-8cbd-c4e6909c8a9a)
 
-![alt text](image-2.png)
+![img-3-class-3](https://github.com/Ruhanyat-994/Life-of-a-Packet/assets/110297704/30af0ede-2940-4804-8814-7c391ca2fcf4)
