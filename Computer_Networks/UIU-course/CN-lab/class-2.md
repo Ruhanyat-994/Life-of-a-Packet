@@ -12,7 +12,7 @@ destination ip - server
 ```
 
 ## Masking
-###### ipV4
+###### **IPv4**
 
 ```plaintext
 
