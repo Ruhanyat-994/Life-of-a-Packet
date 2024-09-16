@@ -1,23 +1,17 @@
-# Compiling
-```sh
-gcc -o script script.c -lws2_32
+
+### How to Run It:
+
+1. Save the script as `subnet_mask_finder.py` or any other name.
+2. Open your terminal and navigate to the directory where the script is saved.
+3. Run the script by providing the IP and CIDR as a command-line argument.
+
+### Example:
+
+```bash
+python subnet_mask_finder.py 192.168.1.0/24
 ```
-# Running
-```sh
-script <ip> <network_part>
+
+Output:
 ```
-## Example
-```sh
-script 207.21.54.240 27
+The subnet mask for 192.168.1.0/24 is: 255.255.255.0
 ```
-## Output
-```sh
-IP Address: 207.21.54.240
-Subnet Mask: 224.255.255.255
-Network Address: 207.21.54.224
-Broadcast Address: 207.21.54.255
-IP Range: 207.21.54.225
- - 207.21.54.254
-```
-- Here For the subnet musk add the first octat to the last
-	- A little coding issue
